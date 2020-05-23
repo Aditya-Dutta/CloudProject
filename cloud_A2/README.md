@@ -4,6 +4,8 @@ Aditya Dutta s3733790
 
 'Open Source Library' is a web application that welcomes any user online to access and read the books. There are such other web application that  allows customers to access books but on payment. All you need to is register in with our application, to check user validation, and enjoy free knowledge on aur application.
 
+The code for Lambda functionality is written in the lambda function code space on AWS. A copy file of the code is included in the report.
+
 Deployment procedure:
 1. Create an EC2 instance on AWS
 2. Login into Ubuntu using EC2 inctance IP address
